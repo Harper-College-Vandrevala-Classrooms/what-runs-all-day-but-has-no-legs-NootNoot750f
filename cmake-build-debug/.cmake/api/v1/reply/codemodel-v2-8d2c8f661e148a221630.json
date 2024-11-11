@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "what_runs_all_day_but_has_no_legs_NootNoot750f",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "what_runs_all_day_but_has_no_legs_NootNoot750f::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-what_runs_all_day_but_has_no_legs_NootNoot750f-Debug-c5f307d07b042c6b5b00.json",
+					"name" : "what_runs_all_day_but_has_no_legs_NootNoot750f",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Users/nickh/Desktop/what-runs-all-day-but-has-no-legs-NootNoot750f/cmake-build-debug",
+		"source" : "D:/Users/nickh/Desktop/what-runs-all-day-but-has-no-legs-NootNoot750f"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
